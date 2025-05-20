@@ -9,4 +9,4 @@ This repository contains my lecture notes for MATH 3360 taken during spring 2025
 ### Directory Structure
 - `lecture notes/`: Contains individual lecture notes in Markdown format
 - `compiled lecture notes/`: Contains compiled PDF versions of the lecture notes
-  - `math 3360 lecture notes spring 2025.pdf`: Complete compilation of all lectures in a single PDF file
+- `MATH 3360 lecture notes spring 2025.pdf`: Complete compilation of all lectures in a single PDF file
