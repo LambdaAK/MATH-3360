@@ -1,4 +1,4 @@
-# MATH 3360: Applicable Algebra
+# Lecture Notes for MATH 3360: Applicable Algebra
 
 ## Course Description
 Introduction to the concepts and methods of abstract algebra that are of interest in applications. Covers the basic theory of groups, rings and fields and their applications to such areas as public-key cryptography and error-correcting codes. Applications include the RSA cryptosystem and use of finite fields to construct error-correcting codes. Topics include elementary number theory, Euclidean algorithm, prime factorization, congruences, theorems of Fermat and Euler, elementary group theory, Chinese remainder theorem, factorization in the ring of polynomials, and classification of finite fields.
